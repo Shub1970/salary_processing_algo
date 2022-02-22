@@ -1,0 +1,14 @@
+->An organization needs to develop a salary processing application
+  for its staff
+->At present it ha an engineering dividion only where engineers and 
+  Managers work. Every Engineer reports to some Manager.
+  Every Manager can also work like an engineer
+->The logic for processing salary for Engineers and Managers are 
+  different as they have different salary heads
+->In future, it may add Directors to the team. Then every Manager 
+  will report to some Director. Every Director could also work like
+  a Manager
+->The logic for processing salary for Director will also be distinct
+->Futher, in future it may open other division, like Sales division,
+  and expand the workforce
+------------Make a suitable extensible design-------------------------
