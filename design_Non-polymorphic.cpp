@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>
+#include<cstring>
 using namespace std;
 
 typedef enum E_TYPE {Er,Mgr,Dir} E_TYPE;
